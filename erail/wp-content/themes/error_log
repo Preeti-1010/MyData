@@ -1,0 +1,387 @@
+[06-Jul-2018 09:17:16 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/index.php on line 15
+[06-Jul-2018 09:32:47 Etc/GMT] PHP Warning:  require_once(/home1/freebg45/public_html/erailinfo/wp-content/themes/wp-load.php): failed to open stream: No such file or directory in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/admin-ajax.php on line 22
+[06-Jul-2018 09:32:47 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/home1/freebg45/public_html/erailinfo/wp-content/themes/wp-load.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/admin-ajax.php on line 22
+[06-Jul-2018 09:32:56 Etc/GMT] PHP Warning:  require_once(/home1/freebg45/public_html/erailinfo/wp-content/themes/wp-load.php): failed to open stream: No such file or directory in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/admin-ajax.php on line 22
+[06-Jul-2018 09:32:56 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/home1/freebg45/public_html/erailinfo/wp-content/themes/wp-load.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/admin-ajax.php on line 22
+[06-Jul-2018 09:33:04 Etc/GMT] PHP Warning:  require_once(/home1/freebg45/public_html/erailinfo/wp-content/themes/wp-load.php): failed to open stream: No such file or directory in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/admin-ajax.php on line 22
+[06-Jul-2018 09:33:04 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/home1/freebg45/public_html/erailinfo/wp-content/themes/wp-load.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/admin-ajax.php on line 22
+[06-Jul-2018 09:34:52 Etc/GMT] PHP Warning:  require_once(/home1/freebg45/public_html/erailinfo/wp-content/themes/wp-load.php): failed to open stream: No such file or directory in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/admin-ajax.php on line 22
+[06-Jul-2018 09:34:52 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/home1/freebg45/public_html/erailinfo/wp-content/themes/wp-load.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/admin-ajax.php on line 22
+[06-Jul-2018 09:35:21 Etc/GMT] PHP Warning:  require_once(/home1/freebg45/public_html/erailinfo/wp-content/themes/wp-load.php): failed to open stream: No such file or directory in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/admin-ajax.php on line 22
+[06-Jul-2018 09:35:21 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/home1/freebg45/public_html/erailinfo/wp-content/themes/wp-load.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/admin-ajax.php on line 22
+[09-Jul-2018 09:41:46 Etc/GMT] PHP Warning:  require_once(/home1/freebg45/public_html/erailinfo/wp-content/themes/wp-load.php): failed to open stream: No such file or directory in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/admin-ajax.php on line 22
+[09-Jul-2018 09:41:46 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/home1/freebg45/public_html/erailinfo/wp-content/themes/wp-load.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/admin-ajax.php on line 22
+[19-Jul-2018 05:31:20 Etc/GMT] PHP Fatal error:  Uncaught Error: Class 'Train' not found in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 8
+[19-Jul-2018 05:35:11 Etc/GMT] PHP Fatal error:  Uncaught Error: Class 'Train' not found in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 10
+[19-Jul-2018 05:41:24 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/functions.php:163
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(2): include()
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/functions.php on line 163
+[19-Jul-2018 05:54:15 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/functions.php:163
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(2): include()
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/functions.php on line 163
+[19-Jul-2018 05:55:29 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/functions.php:163
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(2): include()
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/functions.php on line 163
+[19-Jul-2018 05:56:14 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/functions.php:163
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(2): include()
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/functions.php on line 163
+[19-Jul-2018 05:57:32 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/functions.php:163
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(2): include()
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/functions.php on line 163
+[19-Jul-2018 06:02:37 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/functions.php:163
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(2): include()
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/functions.php on line 163
+[19-Jul-2018 06:03:32 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/functions.php:163
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(2): include()
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/functions.php on line 163
+[19-Jul-2018 06:04:27 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/functions.php:163
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(2): include()
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/functions.php on line 163
+[19-Jul-2018 06:05:32 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 9
+[19-Jul-2018 06:06:47 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/functions.php:163
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(2): include()
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/functions.php on line 163
+[19-Jul-2018 06:09:07 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 06:09:46 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 06:10:44 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 06:12:17 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 06:14:25 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 06:16:07 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 06:16:07 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 06:23:35 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 06:24:44 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 06:24:55 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 06:29:39 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 06:35:13 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 06:35:58 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 06:37:16 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 06:38:02 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 06:53:28 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 06:54:02 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 07:00:27 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 07:15:39 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 07:19:14 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 07:22:12 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 07:23:30 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 07:26:00 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 07:29:37 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 07:29:58 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 07:34:08 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 07:34:53 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 07:36:16 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 07:38:01 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 07:41:32 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 07:44:09 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 07:51:21 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 07:53:31 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 07:54:48 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 07:56:35 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 07:59:50 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 08:01:29 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 08:07:14 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 08:08:44 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 08:52:59 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 08:55:05 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 10:06:46 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 10:49:12 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/template-seat-availabilty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/template-seat-availabilty.php on line 8
+[19-Jul-2018 10:52:16 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/template-seat-availabilty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/template-seat-availabilty.php on line 8
+[19-Jul-2018 10:53:58 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/template-seat-availabilty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/template-seat-availabilty.php on line 8
+[19-Jul-2018 11:04:05 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/template-seat-availabilty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/template-seat-availabilty.php on line 8
+[19-Jul-2018 11:16:37 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/template-seat-availabilty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/template-seat-availabilty.php on line 8
+[19-Jul-2018 11:19:39 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/template-seat-availabilty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/template-seat-availabilty.php on line 8
+[19-Jul-2018 11:20:25 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/template-seat-availabilty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/template-seat-availabilty.php on line 8
+[19-Jul-2018 11:42:20 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/template-seat-availabilty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/template-seat-availabilty.php on line 8
+[19-Jul-2018 11:42:21 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/template-seat-availabilty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/template-seat-availabilty.php on line 8
+[19-Jul-2018 12:30:03 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 12:30:44 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 12:31:04 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/template-seat-availabilty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/template-seat-availabilty.php on line 8
+[19-Jul-2018 12:32:42 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/template-seat-availabilty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/template-seat-availabilty.php on line 8
+[19-Jul-2018 12:34:21 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/template-seat-availabilty.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/template-seat-availabilty.php on line 8
+[19-Jul-2018 12:35:53 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 12:36:43 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 12:37:44 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 12:38:34 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 12:39:25 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 12:40:35 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 12:41:09 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 12:42:10 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 12:42:43 Etc/GMT] PHP Notice:  Use of undefined constant E_All - assumed 'E_All' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[19-Jul-2018 12:44:20 Etc/GMT] PHP Warning:  include(/wp-content/themes/erailinfo/functions.php): failed to open stream: No such file or directory in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 5
+[19-Jul-2018 12:44:20 Etc/GMT] PHP Warning:  include(/wp-content/themes/erailinfo/functions.php): failed to open stream: No such file or directory in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 5
+[19-Jul-2018 12:44:20 Etc/GMT] PHP Warning:  include(): Failed opening '/wp-content/themes/erailinfo/functions.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 5
+[19-Jul-2018 12:44:20 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function route_ajax() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:13
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(18): Trainresult->trainStation(Array)
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 13
+[19-Jul-2018 12:45:45 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 5
+[19-Jul-2018 12:48:17 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/functions.php:163
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(5): include()
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/functions.php on line 163
+[19-Jul-2018 12:49:49 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/functions.php:163
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(5): include()
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/functions.php on line 163
+[19-Jul-2018 12:52:22 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_meta() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:13
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(19): Trainresult->trainStation(Array)
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 13
+[19-Jul-2018 12:59:23 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function wp_query() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:14
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(21): Trainresult->trainStation(Array)
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 14
+[23-Jul-2018 04:26:59 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function wp_query() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:14
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(21): Trainresult->trainStation(Array)
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 14
+[23-Jul-2018 04:28:18 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function wp_query() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:14
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(21): Trainresult->trainStation(Array)
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 14
+[23-Jul-2018 04:28:18 Etc/GMT] PHP Notice:  Undefined index: trainid in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 12
+[23-Jul-2018 04:28:18 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function wp_query() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:14
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(21): Trainresult->trainStation(Array)
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 14
+[23-Jul-2018 05:07:21 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_page_by_path() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 6
+[23-Jul-2018 05:08:55 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_page_by_path() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:6
+Stack trace:
+#0 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 6
+[23-Jul-2018 05:26:42 Etc/GMT] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 16
+[23-Jul-2018 05:33:38 Etc/GMT] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 16
+[23-Jul-2018 05:39:12 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:15
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(23): Trainresult->trainStation(Array)
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 15
+[23-Jul-2018 05:40:44 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:15
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(23): Trainresult->trainStation(Array)
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 15
+[23-Jul-2018 05:50:56 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function get_var() on null in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:15
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(23): Trainresult->trainStation(Array)
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 15
+[23-Jul-2018 05:55:51 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function get_row() on null in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:15
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(23): Trainresult->trainStation(Array)
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 15
+[23-Jul-2018 06:22:53 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function get_row() on null in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:15
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(23): Trainresult->trainStation(Array)
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 15
+[23-Jul-2018 06:26:24 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function get_col() on null in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:15
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(24): Trainresult->trainStation(Array)
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 15
+[23-Jul-2018 06:36:41 Etc/GMT] PHP Notice:  Undefined variable: keyword in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 16
+[23-Jul-2018 06:36:41 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_results() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:18
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(31): Trainresult->trainStation(Array)
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 18
+[23-Jul-2018 06:39:54 Etc/GMT] PHP Notice:  Undefined variable: Go in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 16
+[23-Jul-2018 06:39:54 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_results() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:18
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(31): Trainresult->trainStation(Array)
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 18
+[23-Jul-2018 06:56:11 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 16
+[23-Jul-2018 06:56:11 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 16
+[23-Jul-2018 06:56:11 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 16
+[23-Jul-2018 06:56:11 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 16
+[23-Jul-2018 06:56:11 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 16
+[23-Jul-2018 06:56:11 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 16
+[23-Jul-2018 06:56:11 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 16
+[23-Jul-2018 06:56:11 Etc/GMT] PHP Notice:  Undefined variable: Go in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 16
+[23-Jul-2018 06:56:11 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_results() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:18
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(31): Trainresult->trainStation(Array)
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 18
+[23-Jul-2018 06:58:15 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 16
+[23-Jul-2018 06:58:15 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 16
+[23-Jul-2018 06:58:15 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 16
+[23-Jul-2018 06:58:15 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 16
+[23-Jul-2018 06:58:15 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 16
+[23-Jul-2018 06:58:15 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 16
+[23-Jul-2018 06:58:15 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 16
+[23-Jul-2018 06:58:15 Etc/GMT] PHP Notice:  Undefined variable: Go in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 16
+[23-Jul-2018 06:58:15 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_results() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:18
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(32): Trainresult->trainStation(Array)
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 18
+[23-Jul-2018 07:00:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 16
+[23-Jul-2018 07:00:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 16
+[23-Jul-2018 07:00:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 16
+[23-Jul-2018 07:00:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 16
+[23-Jul-2018 07:00:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 16
+[23-Jul-2018 07:00:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 16
+[23-Jul-2018 07:00:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 16
+[23-Jul-2018 07:00:50 Etc/GMT] PHP Notice:  Undefined variable: Go in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 16
+[23-Jul-2018 07:00:50 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_results() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:18
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(32): Trainresult->trainStation(Array)
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 18
+[23-Jul-2018 07:02:35 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[23-Jul-2018 07:02:42 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[23-Jul-2018 07:03:36 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[23-Jul-2018 07:14:41 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[23-Jul-2018 07:14:47 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[23-Jul-2018 07:15:32 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[23-Jul-2018 07:32:51 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[23-Jul-2018 07:34:01 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[23-Jul-2018 07:34:50 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[23-Jul-2018 07:35:22 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 3
+[23-Jul-2018 07:40:18 Etc/GMT] PHP Warning:  include(/wp-config.php): failed to open stream: No such file or directory in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 9
+[23-Jul-2018 07:40:18 Etc/GMT] PHP Warning:  include(/wp-config.php): failed to open stream: No such file or directory in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 9
+[23-Jul-2018 07:40:18 Etc/GMT] PHP Warning:  include(): Failed opening '/wp-config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 9
+[23-Jul-2018 07:40:18 Etc/GMT] PHP Notice:  Undefined variable: wpdb in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 22
+[23-Jul-2018 07:40:18 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:22
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(38): Trainresult->trainStation(Array)
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 22
+[23-Jul-2018 07:41:19 Etc/GMT] PHP Warning:  include(wp-config.php): failed to open stream: No such file or directory in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 9
+[23-Jul-2018 07:41:19 Etc/GMT] PHP Warning:  include(wp-config.php): failed to open stream: No such file or directory in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 9
+[23-Jul-2018 07:41:19 Etc/GMT] PHP Warning:  include(): Failed opening 'wp-config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 9
+[23-Jul-2018 07:41:19 Etc/GMT] PHP Notice:  Undefined variable: wpdb in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 22
+[23-Jul-2018 07:41:19 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:22
+Stack trace:
+#0 /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php(38): Trainresult->trainStation(Array)
+#1 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 22
+[23-Jul-2018 07:42:53 Etc/GMT] PHP Warning:  include(wp-config.php): failed to open stream: No such file or directory in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 9
+[23-Jul-2018 07:42:53 Etc/GMT] PHP Warning:  include(wp-config.php): failed to open stream: No such file or directory in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 9
+[23-Jul-2018 07:42:53 Etc/GMT] PHP Warning:  include(): Failed opening 'wp-config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 9
+[23-Jul-2018 07:43:38 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 9
+[23-Jul-2018 07:44:30 Etc/GMT] PHP Warning:  include(/wp-config.php): failed to open stream: No such file or directory in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 9
+[23-Jul-2018 07:44:30 Etc/GMT] PHP Warning:  include(/wp-config.php): failed to open stream: No such file or directory in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 9
+[23-Jul-2018 07:44:30 Etc/GMT] PHP Warning:  include(): Failed opening '/wp-config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 9
+[23-Jul-2018 07:45:41 Etc/GMT] PHP Warning:  include(~/public_html/erailinfo/wp-config.php): failed to open stream: No such file or directory in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 9
+[23-Jul-2018 07:45:41 Etc/GMT] PHP Warning:  include(~/public_html/erailinfo/wp-config.php): failed to open stream: No such file or directory in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 9
+[23-Jul-2018 07:45:41 Etc/GMT] PHP Warning:  include(): Failed opening '~/public_html/erailinfo/wp-config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 9
+[23-Jul-2018 07:47:29 Etc/GMT] PHP Warning:  include(../../../../wp-config.php): failed to open stream: No such file or directory in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 9
+[23-Jul-2018 07:47:29 Etc/GMT] PHP Warning:  include(../../../../wp-config.php): failed to open stream: No such file or directory in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 9
+[23-Jul-2018 07:47:29 Etc/GMT] PHP Warning:  include(): Failed opening '../../../../wp-config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 9
+[23-Jul-2018 07:49:38 Etc/GMT] PHP Warning:  include(../../../../wp-config.php): failed to open stream: No such file or directory in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 9
+[23-Jul-2018 07:49:38 Etc/GMT] PHP Warning:  include(../../../../wp-config.php): failed to open stream: No such file or directory in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 9
+[23-Jul-2018 07:49:38 Etc/GMT] PHP Warning:  include(): Failed opening '../../../../wp-config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home1/freebg45/public_html/erailinfo/wp-content/themes/erailinfo/trainresult.php on line 9
