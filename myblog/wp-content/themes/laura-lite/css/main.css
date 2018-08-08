@@ -1,0 +1,26 @@
+form p input#femail{
+	width:160%;
+}
+
+.rl-basicgrid-gallery{
+	display: block;
+}
+
+.sidebar .widget {
+    margin: 0px 0 40px 10px;
+    padding: 25px;
+    border: none;
+    background: none;
+    float: left;
+    width: 100%;
+    background: #fff;
+    box-shadow: 0 0 6px 6px rgba(195,195,195,.12);
+}
+
+.sidebar{
+	    margin-top: 20px;
+}
+
+#rl-gallery-container-1 .rl-basicgrid-gallery .rl-gallery-item {
+    width: calc(50% - 2px);
+}
